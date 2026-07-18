@@ -122,9 +122,3 @@ Correctness was verified in two stages:
 
 **Arsen**
 _https://github.com/Arsennnnnnn / www.linkedin.com/in/arsenavetisyann
-
-_
-
-## License
-
-MIT
