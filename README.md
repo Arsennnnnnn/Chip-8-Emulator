@@ -120,5 +120,6 @@ Correctness was verified in two stages:
 
 ## Author
 
-**Arsen**
+**Arsen Avetisyan**
+
 https://github.com/Arsennnnnnn / www.linkedin.com/in/arsenavetisyann
